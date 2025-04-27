@@ -4,6 +4,7 @@
  You can use a tool like [repomix](https://github.com/yamadashy/repomix) to help streamline your codebase management.
 
  Another option is to use An AI Agent using the following prompt:
+ 
  ```prompt
 Please perform a comprehensive analysis of this repository to create a developer-friendly overview. Explore and identify the following key aspects:
 
