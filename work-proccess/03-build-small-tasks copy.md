@@ -14,10 +14,13 @@ When creating a task, you can use an AI agent to help you break down the task in
  
 You should start a prompt with the following:
 ```prompt
-I would like to define a task. This task should be small, well-defined, and testable. The task is as follows:
+I would like to define a task. This task should be small, well-defined, and 
+testable. The task is as follows:
 <task description>
-If my task is not small, well-defined, and testable, please let me know how to break it down into smaller tasks.
-otherwise, please provide a detailed plan for completing the task and save it as a markdown file in the `tasks` folder.  
+If my task is not small, well-defined, and testable, please let me know how to 
+break it down into smaller tasks.
+Otherwise, please provide a detailed plan for completing the task and save it as 
+a markdown file in the `tasks` folder.  
 The file name should be `task_<number>_<task_name>.md`.
 ```
  
@@ -29,22 +32,23 @@ Once the AI agent has created the task, you can review and edit it as needed. Ma
 ### Adding Additional Information
 You can use the following prompt to edit the task:
 ```prompt
-This task is written well, but I would like to add some additional information. Please add the following information to the task:
+This task is written well, but I would like to add some additional information. 
+Please add the following information to the task:
 <additional information>
 ```
 ### Changing the Task Description
 You can use the following prompt to change the task description:
 ```prompt
-
-```prompt
-This task is written well, but I would like to change the task description. Please change the task description to:
+This task is written well, but I would like to change the task description. 
+Please change the task description to:
 <change task description/ additional information>
 ```
 
 ### (For TDD)Adding a Test Plan
 You can use the following prompt to add a test plan:
 ```prompt
-This task is written well, but I would like to add a test plan. Please add the following test plan to the task:
+This task is written well, but I would like to add a test plan. 
+Please add the following test plan to the task:
 <test plan>
 ```
 

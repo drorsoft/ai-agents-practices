@@ -7,7 +7,7 @@ Once the task is defined and edited, you can ask the AI agent to execute the tas
 use the following prompt to ask the AI agent to execute the task:
 ```prompt
 I would like you to execute the task. In the task file `<task_file_name>`.
-before executing the task, please refer to the file
+Before executing the task, please refer to the file
 `repo_spec-for-agents.md` in the docs folder.
 ```
 ## Inspection results - part 1
@@ -19,7 +19,10 @@ The first part of the inspection results will mean to check if the code is worki
 Check for code quality, readability, and maintainability. The AI agent will check for any code smells, anti-patterns, or other issues that may affect the quality of the code. The AI agent will also check for any best practices that are not being followed.
 
 ```prompt
-The task is executed, but I would like you to check the code quality, readability, and maintainability. Please check for any code smells, anti-patterns, or other issues that may affect the quality of the code. Also check for any best practices that are not being followed.
+The task is executed, but I would like you to check the code quality, readability,
+and maintainability. Please check for any code smells, anti-patterns, or other 
+issues that may affect the quality of the code. Also check for any best practices 
+that are not being followed.
 
 *Please improve the code quality, readability, and maintainability.* 
 ```
