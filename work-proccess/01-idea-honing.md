@@ -1,6 +1,6 @@
 # 01 idea honing honing  (starting a new project)
 
- if you are starting a new project  you can use conversational LLMs like ChatGPT 4o/o3 to hone your idea. The AI will ask one question at a time to develop a thorough spec. Save the output as `spec.md` in the repository.
+ if you are starting a new project  you can use conversational LLMs like ChatGPT 4o/o3 to hone your idea. The AI will ask one question at a time to develop a thorough spec. Save the output as `spec.md` in the `docs` folder in this repository.
 
 
 use this prompt to get started:

@@ -10,7 +10,3 @@ A step by step instructions and convention to maintain code with AI agents. Thes
  
 ## Practical Implementation Guidelines
 
-###   Development Workflow Assistant
-
-Create an agent that assists throughout the development process from requirements gathering to testing and deployment.
- 
