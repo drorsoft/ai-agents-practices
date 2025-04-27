@@ -23,7 +23,23 @@ can you compile our findings into a comprehensive, developer-ready specification
 Include all relevant requirements, architecture choices, 
 data handling details, error handling strategies, 
 and a testing plan so a developer can immediately begin implementation.
+This will output a pretty solid and straightforward spec that can be handed off to the planning step. I like to save it as `spec.md` in the repo.
 ```
 
+## Editing the Spec
 
-This will output a pretty solid and straightforward spec that can be handed off to the planning step. I like to save it as `spec.md` in the repo.
+Once the AI agent has created the spec, you can review and edit it as needed. Make sure to check for any errors or inconsistencies in the spec. You can also add any additional information or context that may be helpful for the developer who will be working on the project.
+
+### Adding Additional Information
+If you want to add additional information/ change things, you can use the following prompt:
+```
+Thank you! The spec is written well, but I would like to add some additional information. Please add the following information to the spec:
+<additional information>
+```
+
+### Changing the Spec Description
+If you want to change the spec description, you can use the following prompt:
+```
+Thank you! The spec is written well, but I would like to change the spec description. Please change the spec description to:
+<change spec description/ additional information>
+```
