@@ -1,5 +1,7 @@
 # Practical guide for AI Agents use and Best Practices  
 
+<img src="assets/ai-friend.png" alt="AI Agent" width="300"/>
+
 ## Introduction
 
 This document outlines a comprehensive set of best practices for designing, developing, deploying, and maintaining code with AI agents across various applications and domains.  
