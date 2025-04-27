@@ -22,7 +22,7 @@ An AI agent is a software entity that can perceive its environment, make decisio
 
 ## Practical Implementation Guidelines
 
-### Scenario 2: Development Workflow Assistant
+###   Development Workflow Assistant
 
 Create an agent that assists throughout the development process from requirements gathering to testing and deployment.
 s
