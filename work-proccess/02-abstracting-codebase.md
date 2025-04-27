@@ -4,7 +4,7 @@
  You can use a tool like [repomix](https://github.com/yamadashy/repomix) to help streamline your codebase management.
 
  Another option is to use An AI Agent using the following prompt:
- 
+
  ```prompt
 Please perform a comprehensive analysis of this repository to create a developer-friendly overview. Explore and identify the following key aspects:
 
@@ -41,7 +41,7 @@ Please perform a comprehensive analysis of this repository to create a developer
 - **Development Setup**: Summarize the steps required to set up the development environment.
 - **Common Workflows**: Identify common development workflows (build, test, deploy).
 
-Please provide a well-organized report with these findings in Markdown format, using code snippets, tables, and sections where appropriate for clarity. Create this report in a file called `repo_analysis-for-agents.md` in the docs folder.
+Please provide a well-organized report with these findings in Markdown format, using code snippets, tables, and sections where appropriate for clarity. Create this report in a file called `repo_spec-for-agents.md` in the docs folder.
  ```
  
  This will help you get a good overview of the codebase and its structure, making it easier to work with and understand.
