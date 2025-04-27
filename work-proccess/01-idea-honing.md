@@ -1,4 +1,4 @@
-# idea honing honing  (starting a new project)
+# Idea honing honing  (starting a new project)
 
 If you are starting a new project, you can use conversational LLMs like ChatGPT 4o/o3 
 to hone your idea. The AI will ask one question at a time to develop a thorough spec. 
