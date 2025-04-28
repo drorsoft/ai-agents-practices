@@ -57,7 +57,7 @@ developer-friendly overview. Explore and identify the following key aspects:
 
 Please provide a well-organized report with these findings in Markdown format, 
 using code snippets, tables, and sections where appropriate for clarity. Create 
-this report in a file called `repo_spec-for-agents.md` in the docs folder.
+this report in a file called `repo-spec-for-agents.md` in the docs folder.
  ```
  
  This will help you get a good overview of the codebase and its structure, making it easier to work with and understand.
