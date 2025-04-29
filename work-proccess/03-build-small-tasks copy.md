@@ -16,17 +16,15 @@ When creating a task, you can use an AI agent to help you break down the task in
  
 You should start a prompt with the following:
 ```prompt
-I would like to define a task. This task should be small, well-defined, and 
-testable. The task is as follows:
-<task description>
-If my task is not small, well-defined, and testable, please let me know how to 
-break it down into smaller tasks.
-Otherwise, please provide a detailed plan for completing the task and save it as 
-a markdown file in the `tasks` folder.  
-The file name should be `task_<number>_<task_name>.md`.
+I would like to define a ticket. This ticket should be small, well-defined, and 
+testable. The ticket is as follows:
+<ticket description>
+If my ticket is not small, well-defined, and testable, please let me know how to 
+break it down into smaller tickets.
+Otherwise, please provide a detailed plan for completing the ticket and save it as 
+a markdown file in the `tickets` folder.  
+The file name should be `ticket_<number>_<ticket_name>.md`.
 ```
- 
-> The folder can also be tickets
 
  ## Editing the Task
 
