@@ -26,6 +26,7 @@ a markdown file in the `tasks` folder.
 The file name should be `task_<number>_<task_name>.md`.
 ```
  
+> The folder can also be tickets
 
  ## Editing the Task
 
