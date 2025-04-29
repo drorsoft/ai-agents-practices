@@ -71,4 +71,4 @@ Create a folder 'context' in the root of the repository and place the report in 
 Create this report in a file called `repo-spec.md` in the 'context' folder.
 ```
 
-  > **Recommended approach**: Based on practical experience, this shorter version is actually more effective. It provides a focused and more actionable overview of the codebase while requiring less processing time from the AI. For most projects, this concise prompt delivers better results and is the recommended option.
+ 
