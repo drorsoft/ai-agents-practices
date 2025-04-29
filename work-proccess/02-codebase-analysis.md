@@ -90,5 +90,6 @@ Please analyze the codebase and provide a summary of the following aspects:
 ## Code Quality & Patterns
 - **Coding Conventions**: Identify coding standards, style guides, and linting 
   configurations.
+```
 
   > This is a more simple version of the previous prompt. It will give you a good overview of the codebase and its structure, making it easier to work with and understand for the AI agent.
