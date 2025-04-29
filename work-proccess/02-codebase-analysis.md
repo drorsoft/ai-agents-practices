@@ -62,3 +62,33 @@ this report in a file called `repo-spec-for-agents.md` in the docs folder.
  
  This will help you get a good overview of the codebase and its structure, making it easier to work with and understand.
     
+A more simple result can be achieved with the following prompt:
+
+```prompt
+Please analyze the codebase and provide a summary of the following aspects:
+
+## Technical Architecture
+- **System Architecture**: Outline the high-level architecture of the 
+  application/system, including components, services, and their relationships.
+
+## Dependencies
+- **Package Analysis**: List all dependencies with their versions from configuration 
+  files (package.json, pyproject.toml, requirements.txt, Gemfile, etc.).
+- **Third-party Integrations**: Identify external services or APIs integrated with 
+  the system.
+- **Development Dependencies**: Separate out testing, linting, and other 
+  development-only packages.
+
+## Documentation & Project Structure
+- **Project Organization**: Map the directory structure with descriptions of key 
+  folders and their purpose.
+- **Technical Documentation**: Summarize existing documentation (README.md, docs/, 
+  wikis, etc.), noting important setup instructions and guides.
+- **Comments Quality**: Assess the quality and comprehensiveness of code comments 
+  throughout the project.
+
+## Code Quality & Patterns
+- **Coding Conventions**: Identify coding standards, style guides, and linting 
+  configurations.
+
+  > This is a more simple version of the previous prompt. It will give you a good overview of the codebase and its structure, making it easier to work with and understand for the AI agent.
