@@ -1,6 +1,6 @@
 # Build Small Defined Tasks
 
-<img src="../assets/ai-and-programmer.png" alt="AI and Programmer Collaboration" width="300"/>
+<img src="assets/ai-and-programmer.png" alt="AI and Programmer Collaboration" width="300"/>
  
 >  Now that you have a AI-friendly description of the codebase, it's time to break down the tasks into smaller, manageable pieces. This will help you and your team work more efficiently and effectively. Here are some steps to follow:
 
