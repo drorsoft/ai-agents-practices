@@ -57,7 +57,7 @@ developer-friendly overview. Explore and identify the following key aspects:
 
 Please provide a well-organized report with these findings in Markdown format, 
 using code snippets, tables, and sections where appropriate for clarity.   
-Create a folder names '_context' in the root of the repository and place the report in it.
+Create a folder '_context' in the root of the repository and place the report in it.
 Create this report in a file called `repo-spec.md` in the docs folder.
  ```
  
@@ -91,8 +91,8 @@ Please analyze the codebase and provide a summary of the following aspects:
 ## Code Quality & Patterns
 - **Coding Conventions**: Identify coding standards, style guides, and linting 
   configurations.
-  
-  Create a folder names '_context' in the root of the repository and place the report in it.
+
+  Create a folder '_context' in the root of the repository and place the report in it.
 Create this report in a file called `repo-spec.md` in the docs folder.
 ```
 
