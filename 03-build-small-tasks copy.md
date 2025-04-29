@@ -45,7 +45,7 @@ Please change the task description to:
 <change task description/ additional information>
 ```
 
-### (For TDD)Adding a Test Plan
+### (For TDD) Adding a Test Plan
 You can use the following prompt to add a test plan:
 ```prompt
 This task is written well, but I would like to add a test plan. 
